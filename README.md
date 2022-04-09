@@ -1,17 +1,17 @@
-# platform_channel_demo
+# Flutter Platform Channel Demo
 
-A new Flutter project.
+This is a demo to communicate between android and iOS device using Platform Channels. Code is written in both Android native and iOS native.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+By using this demo you can learn how to create a platform channels and how to communicate with native device.
 
-A few resources to get you started if this is your first Flutter project:
+For android I have used Kotlin
+For iOS I have used swift
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/34621423/117530805-c5cb8180-affc-11eb-8fa8-539440d44ace.png" width="300" height="650" hspace="20"/>
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
 # flutter-platform_channel
