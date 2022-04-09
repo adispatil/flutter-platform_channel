@@ -10,7 +10,7 @@ For android I have used Kotlin
 For iOS I have used swift
 
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/34621423/117530805-c5cb8180-affc-11eb-8fa8-539440d44ace.png" width="300" height="650" hspace="20"/>
+  <img src="https://user-images.githubusercontent.com/34621423/162577064-2b1a4fef-ca05-497a-9a62-95614dfdbfc1.png" width="400" height="750" hspace="20"/>
 </p>
 
 
